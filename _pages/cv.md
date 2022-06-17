@@ -7,14 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-title: "Test Accounts: An Introduction"
-collection: cv
-permalink:asdf1
-		venue: asdf2
-		excerpt: asdf3
-		 date: 2022-04-01
-		 paperurl: http://academicpages.github.io/files/2022april.pdf
+[link to CV](http://academicpages.github.io/files/2022april.pdf)
+
+---
 Education
 ======
 * B.A. in Mathematics and Music, Amherst College, 2015
