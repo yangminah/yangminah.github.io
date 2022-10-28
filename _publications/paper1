@@ -1,0 +1,12 @@
+---
+title: "Rounding Error Analysis of Mixed Precision Block Householder QR Algorithms."
+collection: publications
+permalink: /publication/2021SISC
+excerpt: 'This paper is about mixed precision block Householder QR algorithms and their rounding error analyses.'
+date: 2021
+venue: 'Society for Industrial and Applied Mathematics (SIAM) Journal on Scientific Computing'
+paperurl: 'https://doi.org/10.1137/19M1296367'
+citation: 'Yang, L. Minah, Fox, Alyson, Sanders, Geoffrey 2019. “Rounding Error Analysis of Mixed Precision Block Householder QR Algorithms.” Society for Industrial and Applied Mathematics (SIAM) Journal on Scientific Computing, vol. 43, no. 3, pp. A1723–A1753, 2021.'
+---
+
+[Download paper here](https://doi.org/10.1137/19M1296367)
