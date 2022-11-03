@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
-[LINK TO CV PDF](/files/2022Oct.pdf)
+[LINK TO CV PDF](https://yangminah.github.io/files/2022Oct.pdf)
 
 ---
+
 Education
 ======
 * B.A. in Mathematics and Music, Amherst College, 2015
@@ -41,12 +42,6 @@ Appointments
   * Duties included: Mixed precision research
   * Supervisor: Alyson Fox and Geoffrey Sanders
 
-
-  
- Skills
-======
-* Numerical Analysis
-* Machine Learning
 
 Publications
 ======
