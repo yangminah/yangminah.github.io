@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[LINK TO CV](http://academicpages.github.io/files/2022Oct.pdf)
+[LINK TO CV PDF](/files/2022Oct.pdf)
 
 ---
 Education
