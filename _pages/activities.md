@@ -8,6 +8,6 @@ author_profile: true
 Activities
 ======
   <ul>{% for post in site.activities reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
