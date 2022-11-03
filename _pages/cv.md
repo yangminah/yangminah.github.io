@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[link to CV](http://academicpages.github.io/files/2022april.pdf)
+[LINK TO CV](http://academicpages.github.io/files/2022Oct.pdf)
 
 ---
 Education
@@ -16,8 +16,13 @@ Education
 * M.S. in Applied Mathematics, University of Colorado Boulder, 2018
 * Ph.D in Applied Mathematics, University of Colorado Boulder, 2021
 
-Work experience
+Appointments
 ======
+* Summer 2021 - present: Postdoctoral Associate
+  * Courant Institute of Mathematical Sciences, New York University
+  * Advisor: Ed Gerber
+  * Topic: Methods for data-driven gravity wave parameterization for GCMs
+
 * Fall 2019 - Spring 2021: Graduate Research Assistant
   * University of Colorado Boulder
   * Duties included: Research
@@ -28,7 +33,7 @@ Work experience
   * Duties included: Teach recitations, work groups, and computer labs for Calculus I, II, II, Differential Equations with Linear Algebra (APPM 1350, APPM 1360, APPM 2350, APPM 2360). Graded homework for Asymptotics course (graduate-level, APPM 5480). 
 
 * Fall 2017 - Spring 2018 : Lead Teaching Assistant
-  * University of COlorado Boulder
+  * University of Colorado Boulder
   * Duties included: Co-led weekly course for new graduate students to facilitate their introduction into teaching assis- tantship work. Planned several weekly activities for students, including forming multiple panels (faculty, industry, instructors, National labs) to introduce career options available for applied math graduate students.
   
 * Summer 2018, 2019, 2020: NSF-MSGI/Computation Scholar/Computing Scholar
@@ -38,13 +43,10 @@ Work experience
 
 
   
-Skills
+ Skills
 ======
 * Numerical Analysis
-  * Sub-skill 1.1
 * Machine Learning
-  * Sub-skill 2.1
-* Skill 3
 
 Publications
 ======
