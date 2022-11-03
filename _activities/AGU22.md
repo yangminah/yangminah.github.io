@@ -1,6 +1,5 @@
 ---
-title: "Data-Driven Subgrid-Scale Parameterizations for Earth System Modeling"
-collection: activities
+title: "AGU22 Session: Data-Driven Subgrid-Scale Parameterizations for Earth System Modeling"
 permalink: /activities/AGU22
 venue: "AGU"
 date: 2022-12-12
