@@ -12,6 +12,6 @@ This is Minah Yang's website.
 
 Hello! 
 ======
-I am a postdoc at 
-My research combines scientific computing, numerical analysis, and machine learning (ML) under the theme of extending data science techniques to scientific applications with a special focus on geophysical fluid dynamics and climate science.
+I am a postdoc working with [Ed Gerber](https://edwinpgerber.github.io/) at Center for Atmosphere Ocean Science, a part of the Courant Institute of Mathematical Sciences at NYU. 
+My research combines scientific computing, numerical analysis, and machine learning (ML) under the theme of extending data science techniques to scientific applications with a special focus on geophysical fluid dynamics and climate science. 
 
