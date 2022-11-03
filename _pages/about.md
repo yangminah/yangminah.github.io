@@ -10,6 +10,8 @@ redirect_from:
 
 This is Minah Yang's website.
 
-Hello!
+Hello! 
 ======
-I got this template from https://github.com/academicpages/academicpages.github.io
+I am a postdoc at 
+My research combines scientific computing, numerical analysis, and machine learning (ML) under the theme of extending data science techniques to scientific applications with a special focus on geophysical fluid dynamics and climate science.
+
