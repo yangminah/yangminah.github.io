@@ -5,9 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-Activities
-======
   <ul>{% for post in site.activities reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single-talk.html %}
   {% endfor %}
   </ul>
