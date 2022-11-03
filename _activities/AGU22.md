@@ -2,6 +2,8 @@
 title: "AGU22 Session: Data-Driven Subgrid-Scale Parameterizations for Earth System Modeling"
 permalink: /activities/AGU22
 venue: "AGU"
+collection: activities
+type: "Conference"
 date: 2022-12-12
 location: "Chicago, IL"
 ---
