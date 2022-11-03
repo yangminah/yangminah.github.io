@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "L. Minah Yang"
   avatar           : "21033CA2-7C10-40D8-9400-E9F498C26E36.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Boulder, CO"
+  bio              : "Postdoc at CIMS, NYU"
+  location         : "New York, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=SZFFhzIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
