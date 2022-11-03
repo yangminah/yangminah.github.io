@@ -8,4 +8,4 @@ date: 2022-04-29
 location: "Frankfurt am Main, Germany"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I talked about some challenges of training machine learning emulators of an existing gravity wave parameterization scheme at [the 2021 SPARC Gravity Wave symposium](https://www.goethe-university-frankfurt.de/87102642/2022_SPARC_Gravity_Wave_Symposium?legacy_request=1). 
