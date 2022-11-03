@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-Teaching
+Activities
 ======
   <ul>{% for post in site.activities reversed %}
   {% include archive-single.html %}
