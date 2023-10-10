@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 [LINK TO CV PDF](https://yangminah.github.io/files/2022Oct.pdf)
+[LINK TO RESUME PDF](https://yangminah.github.io/files/latest_resume.pdf)
 
 ---
 
